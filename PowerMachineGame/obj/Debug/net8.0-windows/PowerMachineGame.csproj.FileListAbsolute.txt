@@ -23,3 +23,29 @@ Q:\Code\C#\new\PowerMachineGame\obj\Debug\net8.0-windows\refint\PowerMachineGame
 Q:\Code\C#\new\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.pdb
 Q:\Code\C#\new\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.genruntimeconfig.cache
 Q:\Code\C#\new\PowerMachineGame\obj\Debug\net8.0-windows\ref\PowerMachineGame.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\PowerMachineGame.exe
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\PowerMachineGame.deps.json
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\PowerMachineGame.runtimeconfig.json
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\PowerMachineGame.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\PowerMachineGame.pdb
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libopenal.so.1
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\osx\native\libSDL2.dylib
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\osx\native\libopenal.1.dylib
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\SDL2.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\soft_oal.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\SDL2.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\soft_oal.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.csproj.AssemblyReference.cache
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.AssemblyInfoInputs.cache
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.AssemblyInfo.cs
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.csproj.CoreCompileInputs.cache
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.sourcelink.json
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMac.3438B044.Up2Date
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\refint\PowerMachineGame.dll
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.pdb
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\PowerMachineGame.genruntimeconfig.cache
+D:\Code\_SECOND YEAR\backupGame\PowerMachineGame\obj\Debug\net8.0-windows\ref\PowerMachineGame.dll

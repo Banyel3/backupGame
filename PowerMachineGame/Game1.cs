@@ -398,7 +398,7 @@ namespace WordShooter
 
         private void DrawMainMenu()
         {
-            string title = "DEFEND THE CENTER";
+            string title = "TYPE TYPE GO";
             string startText = "Press ENTER to Start";
             string exitText = "Press ESC to Exit";
             

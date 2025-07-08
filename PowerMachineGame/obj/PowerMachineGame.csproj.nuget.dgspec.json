@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "Q:\\Code\\C#\\new\\PowerMachineGame\\PowerMachineGame.csproj": {}
+    "D:\\Code\\_SECOND YEAR\\backupGame\\PowerMachineGame\\PowerMachineGame.csproj": {}
   },
   "projects": {
-    "Q:\\Code\\C#\\new\\PowerMachineGame\\PowerMachineGame.csproj": {
+    "D:\\Code\\_SECOND YEAR\\backupGame\\PowerMachineGame\\PowerMachineGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Q:\\Code\\C#\\new\\PowerMachineGame\\PowerMachineGame.csproj",
+        "projectUniqueName": "D:\\Code\\_SECOND YEAR\\backupGame\\PowerMachineGame\\PowerMachineGame.csproj",
         "projectName": "PowerMachineGame",
-        "projectPath": "Q:\\Code\\C#\\new\\PowerMachineGame\\PowerMachineGame.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "Q:\\Code\\C#\\new\\PowerMachineGame\\obj\\",
+        "projectPath": "D:\\Code\\_SECOND YEAR\\backupGame\\PowerMachineGame\\PowerMachineGame.csproj",
+        "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\_SECOND YEAR\\backupGame\\PowerMachineGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -60,24 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -86,7 +67,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

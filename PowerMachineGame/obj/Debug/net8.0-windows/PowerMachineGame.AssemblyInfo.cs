@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerMachineGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+741a649cd02ed9e0ff8e4ccae5d8b1e5a3829c49")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerMachineGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerMachineGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
