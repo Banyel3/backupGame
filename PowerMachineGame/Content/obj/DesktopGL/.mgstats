@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"q:/Code/C#/new/PowerMachineGame/Content/background-2.jpg","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/background-2.xnb","TextureProcessor","Texture2DContent",677344,63984085,1.665976
+"q:/Code/C#/new/PowerMachineGame/Content/background.jpg","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",3483085,76512085,1.7777666
+"q:/Code/C#/new/PowerMachineGame/Content/contrail-2026734_1920.png","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/contrail-2026734_1920.xnb","TextureProcessor","Texture2DContent",263465,11059285,0.4133725
+"q:/Code/C#/new/PowerMachineGame/Content/DefaultFont.spritefont","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",468,37919,0.1987573
+"q:/Code/C#/new/PowerMachineGame/Content/PixelPlanesAssetPack.png","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/PixelPlanesAssetPack.xnb","TextureProcessor","Texture2DContent",7601,130133,0.1313381
+"q:/Code/C#/new/PowerMachineGame/Content/PowerAnimation.png","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/PowerAnimation.xnb","TextureProcessor","Texture2DContent",9543579,29215285,0.9044179
+"q:/Code/C#/new/PowerMachineGame/Content/projectile.png","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/projectile.xnb","TextureProcessor","Texture2DContent",232,265,0.1046021
+"q:/Code/C#/new/PowerMachineGame/Content/rocket.jpg","q:/Code/C#/new/PowerMachineGame/Content/bin/DesktopGL/rocket.xnb","TextureProcessor","Texture2DContent",87753,5929045,0.2753128
